@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomSearchForm.cs](./CS/RichEdit/CustomSearchForm.cs) (VB: [CustomSearchForm.vb](./VB/RichEdit/CustomSearchForm.vb))
+* [Form1.cs](./CS/RichEdit/Form1.cs) (VB: [Form1.vb](./VB/RichEdit/Form1.vb))
+<!-- default file list end -->
 # How to highlight all found word entries in a document 
 
 
